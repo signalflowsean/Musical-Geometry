@@ -15,8 +15,8 @@
 4. Music can be understood geometrically 
 
 ### Pitch Spaces
-**Linear Pitch Space**  
-**Circular Pitch-Class Space**
+**Linear Pitch Space**: Octave is important   
+**Circular Pitch-Class Space**: Octave is *not* important
 
 ### Geometrical Analogies
 Translation = Transposition  
@@ -35,6 +35,21 @@ Inversion = Reflection
 | Inversion         | Turn the object "upside down"     |       
 | Cardinality Change| Add a new voice duplicating one of                              the notes in the new object       |
 
-**Chord**: octave shifts, permutations, and note-dulication
-**Multiset**: octave shifts, and permutation
-**Tone Row**: shift octaves, and note-duplication 
+**Chord**: octave shifts, permutations, and note-dulication  
+**Multiset**: octave shifts, and permutation  
+**Tone Row**: shift octaves, and note-duplication  
+
+*With chord-progressions one can apply the symmetry operations to the musical objects individually or uniformally* 
+
+## Voice Leading and Chord Progressions
+**Chord Progression**: A series of *un-ordered* musical objects 
+**Voice Leading**: A series of *ordered* musical objects
+
+| Term              | Symmetry           
+| -------------     |:-------------:| 
+| Voice leading in pitch space             | uniform  **P** | 
+| Voice leading in pitch-class space       | uniform **OP** |   
+| Pitch-space chord progression            | individual **PC** |
+| Chord progression                        | individual **OPC**|
+| Path in pitch-class space                | uniform **O**     |
+
