@@ -39,9 +39,18 @@ Inversion = Reflection
 **Multiset**: octave shifts, and permutation  
 **Tone Row**: shift octaves, and note-duplication  
 
-*With chord-progressions one can apply the symmetry operations to the musical objects individually or uniformally* 
+| Term              | Symmetry           
+| -------------     |:-------------:| 
+| Chord                                  |**OPC**   | 
+| Transpositional Set Class              |**OPTC**  | 
+| Set Class                              |**OPTIC** |
+| Multiset of pitch classes              |**OP**    |
+| Chord (of pitches)                     |**PC**    |
+| Tone Row (ordered set of pitch classes)|**OC**    |
 
 ## Voice Leading and Chord Progressions
+*With chord-progressions one can apply the symmetry operations to the musical objects individually or uniformally*  
+
 **Chord Progression**: A series of *un-ordered* musical objects 
 **Voice Leading**: A series of *ordered* musical objects
 
