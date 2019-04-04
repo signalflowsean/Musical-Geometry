@@ -71,3 +71,8 @@ Inversion = Reflection
 **Uniformly I(inversionally)-related**: (G, E, G)-> (C, F, A) && (G, Eb, C) => (G, D, Bb)  
 **Individually I(inversionally)-related**: (C, E, G) => (C, F, A) && (G, Eb, C) => (G#, D#, B)  
 *The two voice leadings are miror images of each other: the first moves one voice by zero semitones, one voice up by one semitone, and one voice up by two semitones; the second moves one voice by zero semitones, one voice down by one semitone, and one voice down by two desmitones. Succesive voice leading is similar even though they are not related by excact transposition*  
+
+### Voice-Leading Size
+*Precise measurement is not practical: we'll define what is reasonable*  
+1. It should depend only on *how far* the individual voices move, with larger motion leading to large voice leadings; 
+2. it should judge voice leadings with *voice crossings* to be larger ( or at the very least, no smaller)
