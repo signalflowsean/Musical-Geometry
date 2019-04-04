@@ -48,7 +48,7 @@ Inversion = Reflection
 | Chord (of pitches)                     |**PC**    |
 | Tone Row (ordered set of pitch classes)|**OC**    |
 
-## Voice Leading and Chord Progressions
+### Voice Leading and Chord Progressions
 *With chord-progressions one can apply the symmetry operations to the musical objects individually or uniformally*  
 
 **Chord Progression**: A series of *un-ordered* musical objects 
@@ -61,4 +61,10 @@ Inversion = Reflection
 | Pitch-space chord progression            | individual **PC** |
 | Chord progression                        | individual **OPC**|
 | Path in pitch-class space                | uniform **O**     |
+
+## Comparing Voice Leading
+### Individual and Uniform Transposition
+**Uniformly T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (G, C, E)  
+**Individually T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (F#, B, D#)
+
 
