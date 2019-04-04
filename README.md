@@ -49,6 +49,7 @@ Inversion = Reflection
 | Chord (of pitches)                     |**PC**    |
 | Tone Row (ordered set of pitch classes)|**OC**    |
 
+____
 ### Voice Leading and Chord Progressions
 *With chord-progressions one can apply the symmetry operations to the musical objects individually or uniformally*  
 
@@ -63,12 +64,13 @@ Inversion = Reflection
 | Chord progression                        | individual **OPC**|
 | Path in pitch-class space                | uniform **O**     |
 
-## Comparing Voice Leading
-### Individual and Uniform Transposition
+### Comparing Voice Leading
+#### Individual and Uniform Transposition
+
 **Uniformly T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (G, C, E)  
 **Individually T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (F#, B, D#)  
 *Each maps the root of the first chord to the fifth of the second, the third of the first chord to the root of the second, and the fifth of the first chord to the third of the second.*
-### Inidivudal and Uniform Inversion
+#### Inidivudal and Uniform Inversion
 **Uniformly I(inversionally)-related**: (G, E, G)-> (C, F, A) && (G, Eb, C) => (G, D, Bb)  
 **Individually I(inversionally)-related**: (C, E, G) => (C, F, A) && (G, Eb, C) => (G#, D#, B)  
 *The two voice leadings are miror images of each other: the first moves one voice by zero semitones, one voice up by one semitone, and one voice up by two semitones; the second moves one voice by zero semitones, one voice down by one semitone, and one voice down by two desmitones. Succesive voice leading is similar even though they are not related by excact transposition*  
