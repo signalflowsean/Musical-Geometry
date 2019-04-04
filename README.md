@@ -14,6 +14,7 @@
 3. Modulation involves voice leading
 4. Music can be understood geometrically 
 
+## Chapter 2: Harmony and Voice Leading
 ### Pitch Spaces
 **Linear Pitch Space**: Octave is important   
 **Circular Pitch-Class Space**: Octave is *not* important
