@@ -67,4 +67,7 @@ Inversion = Reflection
 **Uniformly T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (G, C, E)  
 **Individually T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (F#, B, D#)  
 *Each maps the root of the first chord to the fifth of the second, the third of the first chord to the root of the second, and the fifth of the first chord to the third of the second.*
-
+### Inidivudal and Uniform Inversion
+**Uniformly I(inversionally)-related**: (G, E, G)-> (C, F, A) && (G, Eb, C) => (G, D, Bb)  
+**Individually I(inversionally)-related**: (C, E, G) => (C, F, A) && (G, Eb, C) => (G#, D#, B)  
+*The two voice leadings are miror images of each other: the first moves one voice by zero semitones, one voice up by one semitone, and one voice up by two semitones; the second moves one voice by zero semitones, one voice down by one semitone, and one voice down by two desmitones. Succesive voice leading is similar even though they are not related by excact transposition*  
