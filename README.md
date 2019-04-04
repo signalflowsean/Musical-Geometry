@@ -65,6 +65,6 @@ Inversion = Reflection
 ## Comparing Voice Leading
 ### Individual and Uniform Transposition
 **Uniformly T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (G, C, E)  
-**Individually T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (F#, B, D#)
-
+**Individually T(transpositionally)-related**: (C, E, G) => (C, F, A) && (G, B, D) => (F#, B, D#)  
+*Each maps the root of the first chord to the fifth of the second, the third of the first chord to the root of the second, and the fifth of the first chord to the third of the second.*
 
