@@ -78,4 +78,9 @@ ____
 ### Voice-Leading Size
 *Precise measurement is not practical: we'll define what is reasonable*  
 1. It should depend only on *how far* the individual voices move, with larger motion leading to large voice leadings; 
-2. it should judge voice leadings with *voice crossings* to be larger ( or at the very least, no smaller)
+2. it should judge voice leadings with *voice crossings* to be larger ( or at the very least, no smaller)  
+*Generally: smaller amounts of motion in more voices is preferred as apposed to larger amounts of motion in fewer voices.*
+
+**Implications**   
+* The more evenly a chord divides the octave, the smaller the voice leadings to irs various transpositions
+* E and Ab major triads can be linked to the C major traid by smaller voice leadings than any other major triads
