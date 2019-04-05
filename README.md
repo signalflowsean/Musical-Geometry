@@ -84,3 +84,12 @@ ____
 **Implications**   
 * The more evenly a chord divides the octave, the smaller the voice leadings to irs various transpositions
 * E and Ab major triads can be linked to the C major traid by smaller voice leadings than any other major triads
+
+## Near Identity 
+**Chord *Closeness***: linked by efficient voice leading
+**Chord Type *Closeness***: relatively small voice leading between their transpositions. 
+
+*The diminished triad is closer to the minor triad than to the chromatic cluster, since there is a very small voice lading taking C diminished to C minor, but no similarly small voice leading connecting any diminished triad to any chromatic cluser.*
+
+**Nearly transpositionally related**: C dim --> C minor (which is in turn transpositionally related to F minor)
+**Nearly inversionally related**: {C, Db, G} --> { Eb, G, A} (meaning {C, Db, G} is near {C, D, F#} which is inversionally related to {Eb, G, A})
